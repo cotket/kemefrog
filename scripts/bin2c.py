@@ -4,7 +4,7 @@ import argparse
 import os
 import re
 
-line_size = 80
+line_size = 99
 
 
 def bin2c(filename, varname='data'):
